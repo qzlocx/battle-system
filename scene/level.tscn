@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://72pa01uhhs4w"]
+
+[ext_resource type="Script" path="res://script/level.gd" id="1_errat"]
+[ext_resource type="PackedScene" uid="uid://bdwtu2ftq385r" path="res://scene/entity.tscn" id="2_tmqww"]
+
+[node name="Level" type="Node"]
+script = ExtResource("1_errat")
+
+[node name="Entity" parent="." instance=ExtResource("2_tmqww")]
+
+[node name="Panel" type="Panel" parent="."]
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 0.844
+anchor_right = 0.5
+anchor_bottom = 0.844
+offset_left = -500.0
+offset_top = -54.912
+offset_right = 500.0
+offset_bottom = 55.088
+grow_horizontal = 2
+grow_vertical = 0
