@@ -1,3 +1,4 @@
+# Battle System
 ---
 
 The objective of this battle system is to take a classic, turn-based battle, and add a twist to it.
