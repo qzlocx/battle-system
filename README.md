@@ -1,6 +1,4 @@
 # Battle System
----
-
 The objective of this battle system is to take a classic, turn-based battle, and add a twist to it.
 
 In most games, you kill things to get points, but in this one, killing is just *one* of the options. You can choose to befriend it, to leave it alone, to recruit it, to argue with it, to enslave it, or anything you can imagine. These depend on *actions*, which are the building blocks of this system.
