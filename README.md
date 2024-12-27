@@ -147,3 +147,5 @@ In conclusion, the main game loop looks something like this:
 9. Battle ends
 
 ---
+
+Let me know what you think! :-)
