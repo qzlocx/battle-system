@@ -128,6 +128,7 @@ It’s the players job to dodge these attacks. The sequence shouldn’t take too
 
 The player can get hit by one of the projectiles and immediately die. There is no health stat for the player, it’s only one hit and death. If the player dies, then the battle ends.
 
+The battle system is heavily inspired by Geometry Dash, and their fast-paced, epic music battle themes.
 ---
 
 In conclusion, the main game loop looks something like this:
